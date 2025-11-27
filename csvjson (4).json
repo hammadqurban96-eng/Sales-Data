@@ -1,5 +1,295 @@
 [
   {
+    "Full Name": "Fritzi Usen",
+    "Enrolled Date": "11/26/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Lawrence Romer",
+    "Enrolled Date": "11/26/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Jose Foster",
+    "Enrolled Date": "11/26/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Jean Andrew",
+    "Enrolled Date": "11/26/2025",
+    "Assigned To": "Susana Valladolid",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Max Wade",
+    "Enrolled Date": "11/26/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Collin Wilson",
+    "Enrolled Date": "11/25/2025",
+    "Assigned To": "Christopher McCracken",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Sonia Talavera",
+    "Enrolled Date": "11/25/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Clyde Crawford",
+    "Enrolled Date": "11/25/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Schuyler Van Gorden",
+    "Enrolled Date": "11/25/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Cruz Elena Lopez Juarez",
+    "Enrolled Date": "11/25/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Angela Hannan",
+    "Enrolled Date": "11/24/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Courtney Newton",
+    "Enrolled Date": "11/24/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Jason Klein",
+    "Enrolled Date": "11/24/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Bradsley Rhyndress",
+    "Enrolled Date": "11/24/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Miguel L Molina",
+    "Enrolled Date": "11/22/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Debora E Weisgarber",
+    "Enrolled Date": "11/21/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Yolonda A Simmons",
+    "Enrolled Date": "11/21/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Brandon Phillips",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Christopher McCracken",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Debra Moore",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Mercedes Worsham",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Jorge Aguilar",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Corbyn Jenkins",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Julie Bales",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Jorge Aguilar",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Carol Fremaux",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Susana Valladolid",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Shantie Jaimangal",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Vicky Haughey",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Elena Barton",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Susana Valladolid",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Lana Herman",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Christopher McCracken",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Paul Arzberger",
+    "Enrolled Date": "11/19/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Francisco Alfaro",
+    "Enrolled Date": "11/20/2025",
+    "Assigned To": "Susana Valladolid",
+    "Status-Detail": "Active File",
+    "Lead Status": "Active",
+    "Backend": "REPR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
     "Full Name": "Sadasia Pacheco",
     "Enrolled Date": "11/18/2025",
     "Assigned To": "Vivian Garza",
@@ -83,8 +373,8 @@
     "Full Name": "Karla Ramirez",
     "Enrolled Date": "11/15/2025",
     "Assigned To": "Christopher McCracken",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
+    "Status-Detail": "Retention Outreach Required",
+    "Lead Status": "Paused",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Nov 2025"
@@ -95,16 +385,6 @@
     "Assigned To": "Israel Pelcastre Sanchez",
     "Status-Detail": "Active File",
     "Lead Status": "Active",
-    "Backend": "REPR",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Walter Bost",
-    "Enrolled Date": "11/15/2025",
-    "Assigned To": "Susana Valladolid",
-    "Status-Detail": "Cancellation Complete",
-    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Nov 2025"
@@ -123,16 +403,6 @@
     "Full Name": "Thelma Vanover",
     "Enrolled Date": "11/14/2025",
     "Assigned To": "David Zepeda",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
-    "Backend": "REPR",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Mindy Singleton",
-    "Enrolled Date": "11/14/2025",
-    "Assigned To": "Susana Valladolid",
     "Status-Detail": "Active File",
     "Lead Status": "Active",
     "Backend": "REPR",
@@ -213,8 +483,8 @@
     "Full Name": "Marques Williams",
     "Enrolled Date": "11/13/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
+    "Status-Detail": "Outreach Required Per NSF",
+    "Lead Status": "Paused",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Nov 2025"
@@ -293,10 +563,20 @@
     "Full Name": "Garrick Rutlan",
     "Enrolled Date": "11/12/2025",
     "Assigned To": "Kyle Martin",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
+    "Backend": "REPR",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Paul Long",
+    "Enrolled Date": "11/19/2025",
+    "Assigned To": "Michael Jimenez",
     "Status-Detail": "Active File",
     "Lead Status": "Active",
     "Backend": "REPR",
-    "Agent Active Status": "No",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Nov 2025"
   },
   {
@@ -383,8 +663,8 @@
     "Full Name": "Haroldo Gutierrez Jr",
     "Enrolled Date": "11/07/2025",
     "Assigned To": "Vivian Garza",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
+    "Status-Detail": "Outreach Required Per NSF",
+    "Lead Status": "Paused",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Nov 2025"
@@ -493,7 +773,7 @@
     "Full Name": "Steven A Iannetti",
     "Enrolled Date": "10/31/2025",
     "Assigned To": "Kyle Martin",
-    "Status-Detail": "Review for Cancellation",
+    "Status-Detail": "Cancellation Complete",
     "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "No",
@@ -633,7 +913,7 @@
     "Full Name": "Charles Williams",
     "Enrolled Date": "10/24/2025",
     "Assigned To": "Kyle Martin",
-    "Status-Detail": "Outreach Required Per NSF",
+    "Status-Detail": "At Risk for Cancellation Per NSF",
     "Lead Status": "Paused",
     "Backend": "REPR",
     "Agent Active Status": "No",
@@ -643,8 +923,8 @@
     "Full Name": "Peter Maenner",
     "Enrolled Date": "10/24/2025",
     "Assigned To": "Michael Jimenez",
-    "Status-Detail": "Outreach Required Per NSF",
-    "Lead Status": "Paused",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -663,8 +943,8 @@
     "Full Name": "Regina Riley",
     "Enrolled Date": "10/23/2025",
     "Assigned To": "David Zepeda",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
+    "Status-Detail": "Retention Outreach Required",
+    "Lead Status": "Paused",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -673,8 +953,8 @@
     "Full Name": "John Tasler",
     "Enrolled Date": "10/22/2025",
     "Assigned To": "Michael Jimenez",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -723,8 +1003,8 @@
     "Full Name": "Allan Lane",
     "Enrolled Date": "10/21/2025",
     "Assigned To": "Kyle Martin",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "No",
     "Enrolled Month": "Oct 2025"
@@ -783,8 +1063,8 @@
     "Full Name": "Tyrone Dutton",
     "Enrolled Date": "10/17/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
+    "Status-Detail": "Review for Cancellation",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -873,8 +1153,8 @@
     "Full Name": "John Cybulski",
     "Enrolled Date": "10/10/2025",
     "Assigned To": "Oscar Padilla",
-    "Status-Detail": "At Risk for Cancellation Per NSF",
-    "Lead Status": "Paused",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "No",
     "Enrolled Month": "Oct 2025"
@@ -903,8 +1183,8 @@
     "Full Name": "Paula Martinez",
     "Enrolled Date": "10/08/2025",
     "Assigned To": "David Zepeda",
-    "Status-Detail": "At Risk for Cancellation Per NSF",
-    "Lead Status": "Paused",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -933,7 +1213,7 @@
     "Full Name": "Stacy Jones",
     "Enrolled Date": "10/09/2025",
     "Assigned To": "Bryan Garcia",
-    "Status-Detail": "NSF - Pending Cancellation",
+    "Status-Detail": "Cancellation Complete",
     "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "No",
@@ -943,8 +1223,8 @@
     "Full Name": "Daniela Buchanan",
     "Enrolled Date": "10/07/2025",
     "Assigned To": "Vivian Garza",
-    "Status-Detail": "Outreach Required Per NSF",
-    "Lead Status": "Paused",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -993,8 +1273,8 @@
     "Full Name": "Danual Steele",
     "Enrolled Date": "10/06/2025",
     "Assigned To": "David Zepeda",
-    "Status-Detail": "At Risk for Cancellation Per NSF",
-    "Lead Status": "Paused",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -1043,8 +1323,8 @@
     "Full Name": "Raven Weaver",
     "Enrolled Date": "10/02/2025",
     "Assigned To": "Bryan Garcia",
-    "Status-Detail": "At Risk for Cancellation Per NSF",
-    "Lead Status": "Paused",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "No",
     "Enrolled Month": "Oct 2025"
@@ -1053,8 +1333,8 @@
     "Full Name": "Deborah Watson",
     "Enrolled Date": "10/02/2025",
     "Assigned To": "Michael Jimenez",
-    "Status-Detail": "Outreach Required Per NSF",
-    "Lead Status": "Paused",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -1083,8 +1363,8 @@
     "Full Name": "Verna Foust",
     "Enrolled Date": "10/01/2025",
     "Assigned To": "Michael Jimenez",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
+    "Status-Detail": "Outreach Required Per NSF",
+    "Lead Status": "Paused",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -1093,8 +1373,8 @@
     "Full Name": "Joshua Mitchell",
     "Enrolled Date": "10/01/2025",
     "Assigned To": "Michael Jimenez",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
+    "Status-Detail": "Review for Cancellation",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -1143,7 +1423,7 @@
     "Full Name": "Betty Mckay",
     "Enrolled Date": "09/30/2025",
     "Assigned To": "Vanessa Hernandez",
-    "Status-Detail": "Outreach Required Per NSF",
+    "Status-Detail": "At Risk for Cancellation Per NSF",
     "Lead Status": "Paused",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
@@ -1260,26 +1540,6 @@
     "Enrolled Month": "Sep 2025"
   },
   {
-    "Full Name": "Lorna Mcgee",
-    "Enrolled Date": "09/18/2025",
-    "Assigned To": "Leanne Alvarado",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
-    "Backend": "REPR",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
-    "Full Name": "Eldridge Gonzales",
-    "Enrolled Date": "09/16/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
-    "Backend": "REPR",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
     "Full Name": "Jamie Johnson",
     "Enrolled Date": "09/16/2025",
     "Assigned To": "David Zepeda",
@@ -1350,16 +1610,6 @@
     "Enrolled Month": "Sep 2025"
   },
   {
-    "Full Name": "Rebeca Testerman",
-    "Enrolled Date": "09/15/2025",
-    "Assigned To": "Christopher McCracken",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
-    "Backend": "REPR",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
     "Full Name": "Larry Nelson",
     "Enrolled Date": "09/17/2025",
     "Assigned To": "Christopher McCracken",
@@ -1403,8 +1653,8 @@
     "Full Name": "Melissa LeBlanc",
     "Enrolled Date": "09/10/2025",
     "Assigned To": "Michael Jimenez",
-    "Status-Detail": "At Risk for Cancellation Per NSF",
-    "Lead Status": "Paused",
+    "Status-Detail": "Cancellation Complete",
+    "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Sep 2025"
@@ -1420,20 +1670,10 @@
     "Enrolled Month": "Sep 2025"
   },
   {
-    "Full Name": "Ann Croucher",
-    "Enrolled Date": "09/09/2025",
-    "Assigned To": "Michael Jimenez",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
-    "Backend": "REPR",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
     "Full Name": "Charles M Fish",
     "Enrolled Date": "09/09/2025",
     "Assigned To": "Vanessa Hernandez",
-    "Status-Detail": "Review for Cancellation",
+    "Status-Detail": "Cancellation Complete",
     "Lead Status": "Cancelled",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
@@ -1445,16 +1685,6 @@
     "Assigned To": "Mike Sutton",
     "Status-Detail": "Cancellation Complete",
     "Lead Status": "Cancelled",
-    "Backend": "REPR",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
-    "Full Name": "Krista Moore Michols",
-    "Enrolled Date": "09/09/2025",
-    "Assigned To": "Michael Jimenez",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Sep 2025"
@@ -1473,18 +1703,8 @@
     "Full Name": "Toshra Meadows",
     "Enrolled Date": "09/05/2025",
     "Assigned To": "Vanessa Hernandez",
-    "Status-Detail": "Review for Cancellation",
+    "Status-Detail": "Cancellation Complete",
     "Lead Status": "Cancelled",
-    "Backend": "REPR",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
-    "Full Name": "Melissa Garza",
-    "Enrolled Date": "09/05/2025",
-    "Assigned To": "Vanessa Hernandez",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
     "Backend": "REPR",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Sep 2025"
@@ -1512,26 +1732,6 @@
   {
     "Full Name": "Margaret Adams",
     "Enrolled Date": "09/04/2025",
-    "Assigned To": "Leanne Alvarado",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
-    "Backend": "REPR",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
-    "Full Name": "Willie Boyce",
-    "Enrolled Date": "09/12/2025",
-    "Assigned To": "Christopher McCracken",
-    "Status-Detail": "Active File",
-    "Lead Status": "Active",
-    "Backend": "REPR",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
-    "Full Name": "Rick Miller",
-    "Enrolled Date": "09/05/2025",
     "Assigned To": "Leanne Alvarado",
     "Status-Detail": "Active File",
     "Lead Status": "Active",
@@ -1933,8 +2133,8 @@
     "Full Name": "Richard Fulcher",
     "Enrolled Date": "11/05/2025",
     "Assigned To": "Vivian Garza",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Status-Detail": "Pending Cancellation",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Nov 2025"
@@ -1953,17 +2153,7 @@
     "Full Name": "Jackie Bender",
     "Enrolled Date": "11/04/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Michael Cole",
-    "Enrolled Date": "11/04/2025",
-    "Assigned To": "Vivian Garza",
-    "Status-Detail": "Dropped",
+    "Status-Detail": "Pending Cancellation",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
@@ -1973,8 +2163,8 @@
     "Full Name": "Keflynn Murphy",
     "Enrolled Date": "11/03/2025",
     "Assigned To": "Jorge Aguilar",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Nov 2025"
@@ -1993,8 +2183,8 @@
     "Full Name": "Jamal Brown",
     "Enrolled Date": "10/29/2025",
     "Assigned To": "Kyle Martin",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Status-Detail": "Enrolled / NSF Problem",
+    "Lead Status": "Paused",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Oct 2025"
@@ -2023,28 +2213,18 @@
     "Full Name": "Jeffrey Poe",
     "Enrolled Date": "10/29/2025",
     "Assigned To": "Kyle Martin",
-    "Status-Detail": "Pending Cancellation",
+    "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Oct 2025"
   },
   {
-    "Full Name": "Louis Helms Jr",
-    "Enrolled Date": "10/28/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
-  },
-  {
     "Full Name": "Walter Rhodes",
     "Enrolled Date": "10/27/2025",
     "Assigned To": "Vivian Garza",
-    "Status-Detail": "Enrolled / NSF Problem",
-    "Lead Status": "Paused",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -2053,8 +2233,8 @@
     "Full Name": "Heather Anderson",
     "Enrolled Date": "10/27/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Status-Detail": "Enrolled / NSF Problem",
+    "Lead Status": "Paused",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -2083,26 +2263,6 @@
     "Full Name": "Edna Lee",
     "Enrolled Date": "10/17/2025",
     "Assigned To": "Oscar Padilla",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Oct 2025"
-  },
-  {
-    "Full Name": "Guadalupe Lopez",
-    "Enrolled Date": "10/15/2025",
-    "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
-  },
-  {
-    "Full Name": "Trina Wurzelbacher",
-    "Enrolled Date": "10/15/2025",
-    "Assigned To": "Bryan Garcia",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -2170,11 +2330,21 @@
     "Enrolled Month": "Oct 2025"
   },
   {
+    "Full Name": "Guadalupe Lopez",
+    "Enrolled Date": "10/15/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Oct 2025"
+  },
+  {
     "Full Name": "Shanna Richardson",
     "Enrolled Date": "10/07/2025",
     "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Status-Detail": "Enrolled / NSF Problem",
+    "Lead Status": "Paused",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Oct 2025"
@@ -2200,8 +2370,8 @@
     "Enrolled Month": "Oct 2025"
   },
   {
-    "Full Name": "Maxwell Sando",
-    "Enrolled Date": "10/07/2025",
+    "Full Name": "Louis Helms Jr",
+    "Enrolled Date": "10/28/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
@@ -2210,9 +2380,9 @@
     "Enrolled Month": "Oct 2025"
   },
   {
-    "Full Name": "Juanita Woodward",
-    "Enrolled Date": "10/03/2025",
-    "Assigned To": "David Zepeda",
+    "Full Name": "Katie Shalton",
+    "Enrolled Date": "10/02/2025",
+    "Assigned To": "Vanessa Hernandez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -2220,9 +2390,9 @@
     "Enrolled Month": "Oct 2025"
   },
   {
-    "Full Name": "Katie Shalton",
-    "Enrolled Date": "10/02/2025",
-    "Assigned To": "Vanessa Hernandez",
+    "Full Name": "Juanita Woodward",
+    "Enrolled Date": "10/03/2025",
+    "Assigned To": "David Zepeda",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -2250,29 +2420,19 @@
     "Enrolled Month": "Sep 2025"
   },
   {
-    "Full Name": "carolyn rogers",
-    "Enrolled Date": "09/30/2025",
-    "Assigned To": "Amanda O'Banion",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
     "Full Name": "Mariah Leesekamp",
     "Enrolled Date": "09/29/2025",
     "Assigned To": "Vanessa Hernandez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Sep 2025"
   },
   {
-    "Full Name": "Blair Hudson",
-    "Enrolled Date": "09/29/2025",
-    "Assigned To": "David Zepeda",
+    "Full Name": "Danecke George",
+    "Enrolled Date": "09/25/2025",
+    "Assigned To": "Miguel Flores",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -2285,16 +2445,6 @@
     "Assigned To": "Israel Pelcastre Sanchez",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
-    "Full Name": "Danecke George",
-    "Enrolled Date": "09/25/2025",
-    "Assigned To": "Miguel Flores",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Sep 2025"
@@ -2320,14 +2470,14 @@
     "Enrolled Month": "Sep 2025"
   },
   {
-    "Full Name": "Leon Newman",
-    "Enrolled Date": "09/24/2025",
-    "Assigned To": "Michael Jimenez",
-    "Status-Detail": "Enrolled / NSF Problem",
-    "Lead Status": "Paused",
+    "Full Name": "Michael Cole",
+    "Enrolled Date": "11/04/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Enrolled Month": "Nov 2025"
   },
   {
     "Full Name": "Lucretia Marshall",
@@ -2353,7 +2503,7 @@
     "Full Name": "Otis Ailsworth",
     "Enrolled Date": "09/23/2025",
     "Assigned To": "Bryan Garcia",
-    "Status-Detail": "Needs ROL",
+    "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
@@ -2375,16 +2525,6 @@
     "Assigned To": "Miguel Flores",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
-  },
-  {
-    "Full Name": "Richard Castillo",
-    "Enrolled Date": "09/19/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Sep 2025"
@@ -2430,6 +2570,16 @@
     "Enrolled Month": "Sep 2025"
   },
   {
+    "Full Name": "Leon Newman",
+    "Enrolled Date": "09/24/2025",
+    "Assigned To": "Michael Jimenez",
+    "Status-Detail": "Enrolled / NSF Problem",
+    "Lead Status": "Paused",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Sep 2025"
+  },
+  {
     "Full Name": "David Strobhen",
     "Enrolled Date": "09/16/2025",
     "Assigned To": "Vivian Garza",
@@ -2450,6 +2600,16 @@
     "Enrolled Month": "Sep 2025"
   },
   {
+    "Full Name": "Maxwell Sando",
+    "Enrolled Date": "10/07/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Oct 2025"
+  },
+  {
     "Full Name": "Carolyn Long",
     "Enrolled Date": "09/15/2025",
     "Assigned To": "Bryan Garcia",
@@ -2457,6 +2617,16 @@
     "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
+    "Enrolled Month": "Sep 2025"
+  },
+  {
+    "Full Name": "Richard Castillo",
+    "Enrolled Date": "09/19/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Sep 2025"
   },
   {
@@ -2533,6 +2703,16 @@
     "Full Name": "Carol Lane",
     "Enrolled Date": "09/09/2025",
     "Assigned To": "Vivian Garza",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Sep 2025"
+  },
+  {
+    "Full Name": "Blair Hudson",
+    "Enrolled Date": "09/29/2025",
+    "Assigned To": "David Zepeda",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -2670,16 +2850,6 @@
     "Enrolled Month": "Aug 2025"
   },
   {
-    "Full Name": "Juanita Young",
-    "Enrolled Date": "08/28/2025",
-    "Assigned To": "Vivian Garza",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Aug 2025"
-  },
-  {
     "Full Name": "JoAnna Leavitt",
     "Enrolled Date": "08/27/2025",
     "Assigned To": "Leanne Alvarado",
@@ -2687,6 +2857,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
+    "Enrolled Month": "Aug 2025"
+  },
+  {
+    "Full Name": "Juanita Young",
+    "Enrolled Date": "08/28/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Aug 2025"
   },
   {
@@ -2710,16 +2890,6 @@
     "Enrolled Month": "Aug 2025"
   },
   {
-    "Full Name": "Larry Brown",
-    "Enrolled Date": "08/25/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Aug 2025"
-  },
-  {
     "Full Name": "Jarvis Spears",
     "Enrolled Date": "08/21/2025",
     "Assigned To": "David Zepeda",
@@ -2733,16 +2903,6 @@
     "Full Name": "Mark Fitzkee",
     "Enrolled Date": "08/20/2025",
     "Assigned To": "Miguel Flores",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Aug 2025"
-  },
-  {
-    "Full Name": "Ayrica Gelinas",
-    "Enrolled Date": "08/18/2025",
-    "Assigned To": "David Zepeda",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
     "Backend": "PAN AM",
@@ -2783,8 +2943,8 @@
     "Full Name": "Rebecca Barner",
     "Enrolled Date": "08/05/2025",
     "Assigned To": "Vivian Garza",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Aug 2025"
@@ -2820,9 +2980,9 @@
     "Enrolled Month": "Jul 2025"
   },
   {
-    "Full Name": "Soutono Yameogo",
-    "Enrolled Date": "07/30/2025",
-    "Assigned To": "Vanessa Glass",
+    "Full Name": "Markisha Thomas",
+    "Enrolled Date": "07/29/2025",
+    "Assigned To": "Gil Arreola",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -2830,9 +2990,9 @@
     "Enrolled Month": "Jul 2025"
   },
   {
-    "Full Name": "Markisha Thomas",
-    "Enrolled Date": "07/29/2025",
-    "Assigned To": "Gil Arreola",
+    "Full Name": "Soutono Yameogo",
+    "Enrolled Date": "07/30/2025",
+    "Assigned To": "Vanessa Glass",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -2870,11 +3030,41 @@
     "Enrolled Month": "Jul 2025"
   },
   {
+    "Full Name": "Jermaine Hutchins",
+    "Enrolled Date": "07/24/2025",
+    "Assigned To": "Chris Hanover",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Jul 2025"
+  },
+  {
+    "Full Name": "Ayrica Gelinas",
+    "Enrolled Date": "08/18/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Aug 2025"
+  },
+  {
     "Full Name": "Richard Vitale",
     "Enrolled Date": "07/25/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Jul 2025"
+  },
+  {
+    "Full Name": "Timothy Jordan",
+    "Enrolled Date": "07/22/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Jul 2025"
@@ -2887,36 +3077,6 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
-    "Enrolled Month": "Jul 2025"
-  },
-  {
-    "Full Name": "Jermaine Hutchins",
-    "Enrolled Date": "07/24/2025",
-    "Assigned To": "Chris Hanover",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Jul 2025"
-  },
-  {
-    "Full Name": "Verda Goodman",
-    "Enrolled Date": "07/23/2025",
-    "Assigned To": "Amanda O'Banion",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Jul 2025"
-  },
-  {
-    "Full Name": "Timothy Jordan",
-    "Enrolled Date": "07/22/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
     "Enrolled Month": "Jul 2025"
   },
   {
@@ -2940,16 +3100,6 @@
     "Enrolled Month": "Jul 2025"
   },
   {
-    "Full Name": "Ronald Sanford",
-    "Enrolled Date": "07/15/2025",
-    "Assigned To": "Bianca Rodriguez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Jul 2025"
-  },
-  {
     "Full Name": "Angelica Gamez",
     "Enrolled Date": "07/14/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
@@ -2965,16 +3115,6 @@
     "Assigned To": "David Zepeda",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Jul 2025"
-  },
-  {
-    "Full Name": "Scott Coulter",
-    "Enrolled Date": "07/11/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Jul 2025"
@@ -3040,16 +3180,6 @@
     "Enrolled Month": "Jul 2025"
   },
   {
-    "Full Name": "Lee Martin",
-    "Enrolled Date": "07/08/2025",
-    "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Jul 2025"
-  },
-  {
     "Full Name": "Ruth Scott",
     "Enrolled Date": "07/07/2025",
     "Assigned To": "Bryan Garcia",
@@ -3060,23 +3190,23 @@
     "Enrolled Month": "Jul 2025"
   },
   {
-    "Full Name": "Johnny Ortiz",
-    "Enrolled Date": "07/03/2025",
-    "Assigned To": "Vivian Garza",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
+    "Full Name": "Lee Martin",
+    "Enrolled Date": "07/08/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Jul 2025"
   },
   {
-    "Full Name": "Melisa Sha",
-    "Enrolled Date": "07/03/2025",
-    "Assigned To": "Miriam Guizar",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
+    "Full Name": "Scott Coulter",
+    "Enrolled Date": "07/11/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
     "Backend": "PAN AM",
-    "Agent Active Status": "No",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Jul 2025"
   },
   {
@@ -3108,6 +3238,16 @@
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Jun 2025"
+  },
+  {
+    "Full Name": "Johnny Ortiz",
+    "Enrolled Date": "07/03/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Jul 2025"
   },
   {
     "Full Name": "Maximiano Sandoval",
@@ -3190,31 +3330,11 @@
     "Enrolled Month": "Jun 2025"
   },
   {
-    "Full Name": "Janette Mcspadden",
-    "Enrolled Date": "06/16/2025",
-    "Assigned To": "Bryan Garcia",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Jun 2025"
-  },
-  {
     "Full Name": "Deanna Cole",
     "Enrolled Date": "06/12/2025",
     "Assigned To": "Amanda O'Banion",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Jun 2025"
-  },
-  {
-    "Full Name": "Charles Miller",
-    "Enrolled Date": "06/12/2025",
-    "Assigned To": "Bianca Rodriguez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Jun 2025"
@@ -3237,6 +3357,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
+    "Enrolled Month": "Jun 2025"
+  },
+  {
+    "Full Name": "Janette Mcspadden",
+    "Enrolled Date": "06/16/2025",
+    "Assigned To": "Bryan Garcia",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
     "Enrolled Month": "Jun 2025"
   },
   {
@@ -3275,16 +3405,6 @@
     "Assigned To": "Israel Pelcastre Sanchez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Jun 2025"
-  },
-  {
-    "Full Name": "Earline Marts Brown",
-    "Enrolled Date": "06/09/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Jun 2025"
@@ -3433,7 +3553,7 @@
     "Full Name": "Ubaldo Lopez",
     "Enrolled Date": "05/30/2025",
     "Assigned To": "Jonathan Peralta",
-    "Status-Detail": "Summons: POA Sent",
+    "Status-Detail": "Summons: STIPs Pending",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
@@ -3443,26 +3563,6 @@
     "Full Name": "Constance Wagner",
     "Enrolled Date": "05/30/2025",
     "Assigned To": "Amanda O'Banion",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Howard Coker",
-    "Enrolled Date": "05/30/2025",
-    "Assigned To": "Ross T",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Russell Shippey",
-    "Enrolled Date": "05/30/2025",
-    "Assigned To": "Nick T",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -3510,16 +3610,6 @@
     "Enrolled Month": "May 2025"
   },
   {
-    "Full Name": "Ronnie Sampson",
-    "Enrolled Date": "05/29/2025",
-    "Assigned To": "Bryan Garcia",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
     "Full Name": "Tracey Clayton",
     "Enrolled Date": "05/28/2025",
     "Assigned To": "David Zepeda",
@@ -3527,6 +3617,26 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Howard Coker",
+    "Enrolled Date": "05/30/2025",
+    "Assigned To": "Ross T",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Ronnie Sampson",
+    "Enrolled Date": "05/29/2025",
+    "Assigned To": "Bryan Garcia",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
     "Enrolled Month": "May 2025"
   },
   {
@@ -3543,6 +3653,16 @@
     "Full Name": "Thomas Cratty Jr.",
     "Enrolled Date": "05/28/2025",
     "Assigned To": "Eddie Cabrera",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Russell Shippey",
+    "Enrolled Date": "05/30/2025",
+    "Assigned To": "Nick T",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -3603,8 +3723,28 @@
     "Full Name": "Michael Laurance",
     "Enrolled Date": "05/27/2025",
     "Assigned To": "Ross T",
-    "Status-Detail": "Enrolled / NSF Problem",
-    "Lead Status": "Paused",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Verda Goodman",
+    "Enrolled Date": "07/23/2025",
+    "Assigned To": "Amanda O'Banion",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Jul 2025"
+  },
+  {
+    "Full Name": "Renee Roberts",
+    "Enrolled Date": "05/26/2025",
+    "Assigned To": "Elissa T",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "May 2025"
@@ -3627,26 +3767,6 @@
     "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Jack Jernigan",
-    "Enrolled Date": "05/27/2025",
-    "Assigned To": "Nick T",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Renee Roberts",
-    "Enrolled Date": "05/26/2025",
-    "Assigned To": "Elissa T",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
     "Enrolled Month": "May 2025"
   },
   {
@@ -3685,26 +3805,6 @@
     "Assigned To": "Eddie Cabrera",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Johnny Wyre",
-    "Enrolled Date": "05/23/2025",
-    "Assigned To": "Vanessa Hernandez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Enda Davis",
-    "Enrolled Date": "05/23/2025",
-    "Assigned To": "Bryan Garcia",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "May 2025"
@@ -3823,16 +3923,6 @@
     "Full Name": "Armen Enokian",
     "Enrolled Date": "05/21/2025",
     "Assigned To": "Amanda O'Banion",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Raymond Clark Jr",
-    "Enrolled Date": "05/21/2025",
-    "Assigned To": "Bianca Rodriguez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -3990,11 +4080,11 @@
     "Enrolled Month": "May 2025"
   },
   {
-    "Full Name": "Jesse Moore",
-    "Enrolled Date": "05/19/2025",
-    "Assigned To": "Cristina T",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Full Name": "Jack Jernigan",
+    "Enrolled Date": "05/27/2025",
+    "Assigned To": "Nick T",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "May 2025"
@@ -4150,6 +4240,16 @@
     "Enrolled Month": "May 2025"
   },
   {
+    "Full Name": "Ronald Sanford",
+    "Enrolled Date": "07/15/2025",
+    "Assigned To": "Bianca Rodriguez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Jul 2025"
+  },
+  {
     "Full Name": "Efemena Ogbaide",
     "Enrolled Date": "05/15/2025",
     "Assigned To": "Bryan Garcia",
@@ -4183,16 +4283,6 @@
     "Full Name": "Rita Kemp",
     "Enrolled Date": "05/15/2025",
     "Assigned To": "Amanda O'Banion",
-    "Status-Detail": "Enrolled / NSF Problem",
-    "Lead Status": "Paused",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Belinda Hall",
-    "Enrolled Date": "05/15/2025",
-    "Assigned To": "Miriam Guizar",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
     "Backend": "PAN AM",
@@ -4217,6 +4307,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Jesse Moore",
+    "Enrolled Date": "05/19/2025",
+    "Assigned To": "Cristina T",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
     "Enrolled Month": "May 2025"
   },
   {
@@ -4250,26 +4350,6 @@
     "Enrolled Month": "May 2025"
   },
   {
-    "Full Name": "Suezet Cain",
-    "Enrolled Date": "05/14/2025",
-    "Assigned To": "Bryan Garcia",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Kenneth Hillard",
-    "Enrolled Date": "05/14/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "May 2025"
-  },
-  {
     "Full Name": "Tammy Lampinen",
     "Enrolled Date": "05/13/2025",
     "Assigned To": "Elissa T",
@@ -4290,6 +4370,16 @@
     "Enrolled Month": "May 2025"
   },
   {
+    "Full Name": "Earline Marts Brown",
+    "Enrolled Date": "06/09/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Jun 2025"
+  },
+  {
     "Full Name": "Mauni Sessions",
     "Enrolled Date": "05/13/2025",
     "Assigned To": "Ross T",
@@ -4303,36 +4393,6 @@
     "Full Name": "Valerie Guss",
     "Enrolled Date": "05/13/2025",
     "Assigned To": "Elissa T",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "David Stout",
-    "Enrolled Date": "05/13/2025",
-    "Assigned To": "Heidi Elizondo",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Frank Szabo",
-    "Enrolled Date": "05/13/2025",
-    "Assigned To": "Eddie Cabrera",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Keishia Johnson",
-    "Enrolled Date": "05/13/2025",
-    "Assigned To": "Nick T",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -4363,6 +4423,16 @@
     "Full Name": "Brian Handelman",
     "Enrolled Date": "05/12/2025",
     "Assigned To": "Elissa T",
+    "Status-Detail": "Pending Cancellation",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "David Stout",
+    "Enrolled Date": "05/13/2025",
+    "Assigned To": "Heidi Elizondo",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
     "Backend": "PAN AM",
@@ -4400,6 +4470,26 @@
     "Enrolled Month": "May 2025"
   },
   {
+    "Full Name": "Frank Szabo",
+    "Enrolled Date": "05/13/2025",
+    "Assigned To": "Eddie Cabrera",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Keishia Johnson",
+    "Enrolled Date": "05/13/2025",
+    "Assigned To": "Nick T",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
     "Full Name": "Louis Staunton",
     "Enrolled Date": "05/09/2025",
     "Assigned To": "Elissa T",
@@ -4420,6 +4510,26 @@
     "Enrolled Month": "May 2025"
   },
   {
+    "Full Name": "Belinda Hall",
+    "Enrolled Date": "05/15/2025",
+    "Assigned To": "Miriam Guizar",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Johnny Wyre",
+    "Enrolled Date": "05/23/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "May 2025"
+  },
+  {
     "Full Name": "Barbara Moore",
     "Enrolled Date": "05/09/2025",
     "Assigned To": "David Zepeda",
@@ -4433,46 +4543,6 @@
     "Full Name": "Matthew Shiggs",
     "Enrolled Date": "05/09/2025",
     "Assigned To": "Amanda O'Banion",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Lawanda Allen",
-    "Enrolled Date": "05/09/2025",
-    "Assigned To": "Erik T",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Paula Cooper",
-    "Enrolled Date": "05/09/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Jack Benson",
-    "Enrolled Date": "05/09/2025",
-    "Assigned To": "Heidi Elizondo",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "David Currie",
-    "Enrolled Date": "05/09/2025",
-    "Assigned To": "Heidi Elizondo",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -4520,6 +4590,36 @@
     "Enrolled Month": "May 2025"
   },
   {
+    "Full Name": "Suezet Cain",
+    "Enrolled Date": "05/14/2025",
+    "Assigned To": "Bryan Garcia",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Lawanda Allen",
+    "Enrolled Date": "05/09/2025",
+    "Assigned To": "Erik T",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Larry Brown",
+    "Enrolled Date": "08/25/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Aug 2025"
+  },
+  {
     "Full Name": "Elizabeth Roberts",
     "Enrolled Date": "05/08/2025",
     "Assigned To": "Eddie Cabrera",
@@ -4533,18 +4633,8 @@
     "Full Name": "William Crews",
     "Enrolled Date": "05/08/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "May 2025"
-  },
-  {
-    "Full Name": "Demetrius Collins",
-    "Enrolled Date": "05/08/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
+    "Status-Detail": "Summons: Calculations Pending",
+    "Lead Status": "#N/A",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "May 2025"
@@ -4582,6 +4672,16 @@
   {
     "Full Name": "David Christian Damasco",
     "Enrolled Date": "05/07/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Paula Cooper",
+    "Enrolled Date": "05/09/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
@@ -4660,16 +4760,6 @@
     "Enrolled Month": "May 2025"
   },
   {
-    "Full Name": "Ewin Mckay",
-    "Enrolled Date": "05/06/2025",
-    "Assigned To": "Bianca Rodriguez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "May 2025"
-  },
-  {
     "Full Name": "Ayama Gibbs",
     "Enrolled Date": "05/05/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
@@ -4677,6 +4767,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Raymond Clark Jr",
+    "Enrolled Date": "05/21/2025",
+    "Assigned To": "Bianca Rodriguez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
     "Enrolled Month": "May 2025"
   },
   {
@@ -4723,6 +4823,16 @@
     "Full Name": "Robie Hundley",
     "Enrolled Date": "05/05/2025",
     "Assigned To": "Richard Hernandez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Ewin Mckay",
+    "Enrolled Date": "05/06/2025",
+    "Assigned To": "Bianca Rodriguez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -4810,16 +4920,6 @@
     "Enrolled Month": "May 2025"
   },
   {
-    "Full Name": "Kerry Kling",
-    "Enrolled Date": "05/02/2025",
-    "Assigned To": "Jorge Aguilar",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "May 2025"
-  },
-  {
     "Full Name": "Bonnie Martinez",
     "Enrolled Date": "05/01/2025",
     "Assigned To": "Vanessa Hernandez",
@@ -4887,16 +4987,6 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
-    "Enrolled Month": "Apr 2025"
-  },
-  {
-    "Full Name": "Harvey Tabb",
-    "Enrolled Date": "04/30/2025",
-    "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
     "Enrolled Month": "Apr 2025"
   },
   {
@@ -4970,26 +5060,6 @@
     "Enrolled Month": "Apr 2025"
   },
   {
-    "Full Name": "Loraine Powell",
-    "Enrolled Date": "04/29/2025",
-    "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Apr 2025"
-  },
-  {
-    "Full Name": "Jennifer Ford",
-    "Enrolled Date": "04/29/2025",
-    "Assigned To": "Bryan Garcia",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Apr 2025"
-  },
-  {
     "Full Name": "Charles Fulton",
     "Enrolled Date": "04/28/2025",
     "Assigned To": "David Zepeda",
@@ -5040,14 +5110,14 @@
     "Enrolled Month": "Apr 2025"
   },
   {
-    "Full Name": "Bobby Reed",
-    "Enrolled Date": "04/28/2025",
+    "Full Name": "Kerry Kling",
+    "Enrolled Date": "05/02/2025",
     "Assigned To": "Jorge Aguilar",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
-    "Enrolled Month": "Apr 2025"
+    "Enrolled Month": "May 2025"
   },
   {
     "Full Name": "Dennis Lachtman",
@@ -5063,6 +5133,16 @@
     "Full Name": "Douglas Geen",
     "Enrolled Date": "04/25/2025",
     "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Apr 2025"
+  },
+  {
+    "Full Name": "Bobby Reed",
+    "Enrolled Date": "04/28/2025",
+    "Assigned To": "Jorge Aguilar",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -5110,6 +5190,16 @@
     "Enrolled Month": "Apr 2025"
   },
   {
+    "Full Name": "Charles Miller",
+    "Enrolled Date": "06/12/2025",
+    "Assigned To": "Bianca Rodriguez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Jun 2025"
+  },
+  {
     "Full Name": "Cassie Harris",
     "Enrolled Date": "04/24/2025",
     "Assigned To": "Jorge Aguilar",
@@ -5117,26 +5207,6 @@
     "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
-    "Enrolled Month": "Apr 2025"
-  },
-  {
-    "Full Name": "Kenton Nakken",
-    "Enrolled Date": "04/24/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / NSF Problem",
-    "Lead Status": "Paused",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Apr 2025"
-  },
-  {
-    "Full Name": "Nelson Lebron",
-    "Enrolled Date": "04/24/2025",
-    "Assigned To": "Richard Hernandez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
     "Enrolled Month": "Apr 2025"
   },
   {
@@ -5157,6 +5227,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
+    "Enrolled Month": "Apr 2025"
+  },
+  {
+    "Full Name": "Kenton Nakken",
+    "Enrolled Date": "04/24/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Apr 2025"
   },
   {
@@ -5240,6 +5320,26 @@
     "Enrolled Month": "Apr 2025"
   },
   {
+    "Full Name": "Loraine Powell",
+    "Enrolled Date": "04/29/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Apr 2025"
+  },
+  {
+    "Full Name": "Kenneth Hillard",
+    "Enrolled Date": "05/14/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "May 2025"
+  },
+  {
     "Full Name": "Belinda Lewis",
     "Enrolled Date": "04/21/2025",
     "Assigned To": "David Zepeda",
@@ -5280,9 +5380,9 @@
     "Enrolled Month": "Apr 2025"
   },
   {
-    "Full Name": "Wilton Allen",
-    "Enrolled Date": "04/21/2025",
-    "Assigned To": "David Zepeda",
+    "Full Name": "Harvey Tabb",
+    "Enrolled Date": "04/30/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -5360,6 +5460,16 @@
     "Enrolled Month": "Apr 2025"
   },
   {
+    "Full Name": "Jennifer Ford",
+    "Enrolled Date": "04/29/2025",
+    "Assigned To": "Bryan Garcia",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Apr 2025"
+  },
+  {
     "Full Name": "Nicole Washington",
     "Enrolled Date": "04/16/2025",
     "Assigned To": "Miriam Guizar",
@@ -5368,6 +5478,16 @@
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Apr 2025"
+  },
+  {
+    "Full Name": "Demetrius Collins",
+    "Enrolled Date": "05/08/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "May 2025"
   },
   {
     "Full Name": "Richard Perez",
@@ -5383,8 +5503,8 @@
     "Full Name": "DENEEN MCGEE",
     "Enrolled Date": "04/16/2025",
     "Assigned To": "Heidi Elizondo",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Status-Detail": "Pending Cancellation",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Apr 2025"
@@ -5440,8 +5560,8 @@
     "Enrolled Month": "Apr 2025"
   },
   {
-    "Full Name": "Lillian Gregorio",
-    "Enrolled Date": "04/15/2025",
+    "Full Name": "Wilton Allen",
+    "Enrolled Date": "04/21/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
@@ -5480,9 +5600,9 @@
     "Enrolled Month": "Apr 2025"
   },
   {
-    "Full Name": "Amy Wagenman",
-    "Enrolled Date": "04/14/2025",
-    "Assigned To": "Christopher McCracken",
+    "Full Name": "Lillian Gregorio",
+    "Enrolled Date": "04/15/2025",
+    "Assigned To": "David Zepeda",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -5490,14 +5610,14 @@
     "Enrolled Month": "Apr 2025"
   },
   {
-    "Full Name": "Roger Bernier",
-    "Enrolled Date": "04/14/2025",
-    "Assigned To": "David Zepeda",
+    "Full Name": "Jack Benson",
+    "Enrolled Date": "05/09/2025",
+    "Assigned To": "Heidi Elizondo",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Apr 2025"
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
   },
   {
     "Full Name": "Amos Kenner",
@@ -5535,16 +5655,6 @@
     "Assigned To": "David Zepeda",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Apr 2025"
-  },
-  {
-    "Full Name": "Melissa Grueser",
-    "Enrolled Date": "04/10/2025",
-    "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Apr 2025"
@@ -5630,26 +5740,6 @@
     "Enrolled Month": "Apr 2025"
   },
   {
-    "Full Name": "Bobby Eller",
-    "Enrolled Date": "04/08/2025",
-    "Assigned To": "Bryan Garcia",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Apr 2025"
-  },
-  {
-    "Full Name": "Anthony Grigley",
-    "Enrolled Date": "04/08/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Apr 2025"
-  },
-  {
     "Full Name": "Cara Owens",
     "Enrolled Date": "04/07/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
@@ -5657,6 +5747,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
+    "Enrolled Month": "Apr 2025"
+  },
+  {
+    "Full Name": "Bobby Eller",
+    "Enrolled Date": "04/08/2025",
+    "Assigned To": "Bryan Garcia",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
     "Enrolled Month": "Apr 2025"
   },
   {
@@ -5730,9 +5830,9 @@
     "Enrolled Month": "Apr 2025"
   },
   {
-    "Full Name": "Megan Cook",
-    "Enrolled Date": "04/04/2025",
-    "Assigned To": "Christopher McCracken",
+    "Full Name": "Anthony Grigley",
+    "Enrolled Date": "04/08/2025",
+    "Assigned To": "David Zepeda",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -5747,6 +5847,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
+    "Enrolled Month": "Apr 2025"
+  },
+  {
+    "Full Name": "Megan Cook",
+    "Enrolled Date": "04/04/2025",
+    "Assigned To": "Christopher McCracken",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Apr 2025"
   },
   {
@@ -5830,14 +5940,24 @@
     "Enrolled Month": "Mar 2025"
   },
   {
-    "Full Name": "Mary Langley",
-    "Enrolled Date": "03/31/2025",
-    "Assigned To": "David Zepeda",
+    "Full Name": "Melissa Grueser",
+    "Enrolled Date": "04/10/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
-    "Enrolled Month": "Mar 2025"
+    "Enrolled Month": "Apr 2025"
+  },
+  {
+    "Full Name": "Amy Wagenman",
+    "Enrolled Date": "04/14/2025",
+    "Assigned To": "Christopher McCracken",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Apr 2025"
   },
   {
     "Full Name": "Daniel Corbin",
@@ -5920,6 +6040,16 @@
     "Enrolled Month": "Mar 2025"
   },
   {
+    "Full Name": "Melisa Sha",
+    "Enrolled Date": "07/03/2025",
+    "Assigned To": "Miriam Guizar",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Jul 2025"
+  },
+  {
     "Full Name": "Raul Ricardo",
     "Enrolled Date": "03/26/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
@@ -5927,26 +6057,6 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
-    "Enrolled Month": "Mar 2025"
-  },
-  {
-    "Full Name": "Nancy Gilbert",
-    "Enrolled Date": "03/26/2025",
-    "Assigned To": "Vanessa Hernandez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Mar 2025"
-  },
-  {
-    "Full Name": "Peggy Nolan",
-    "Enrolled Date": "03/26/2025",
-    "Assigned To": "Joseph Martinez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
     "Enrolled Month": "Mar 2025"
   },
   {
@@ -5967,6 +6077,16 @@
     "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
+    "Enrolled Month": "Mar 2025"
+  },
+  {
+    "Full Name": "Nancy Gilbert",
+    "Enrolled Date": "03/26/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Mar 2025"
   },
   {
@@ -6080,26 +6200,6 @@
     "Enrolled Month": "Mar 2025"
   },
   {
-    "Full Name": "Charles Cox",
-    "Enrolled Date": "03/20/2025",
-    "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Mar 2025"
-  },
-  {
-    "Full Name": "Marlene Noel",
-    "Enrolled Date": "03/20/2025",
-    "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Mar 2025"
-  },
-  {
     "Full Name": "Lauren Nizens",
     "Enrolled Date": "03/19/2025",
     "Assigned To": "Vanessa Hernandez",
@@ -6127,6 +6227,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
+    "Enrolled Month": "Mar 2025"
+  },
+  {
+    "Full Name": "Mary Langley",
+    "Enrolled Date": "03/31/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Mar 2025"
   },
   {
@@ -6170,13 +6280,43 @@
     "Enrolled Month": "Mar 2025"
   },
   {
+    "Full Name": "Charles Cox",
+    "Enrolled Date": "03/20/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Mar 2025"
+  },
+  {
+    "Full Name": "David Currie",
+    "Enrolled Date": "05/09/2025",
+    "Assigned To": "Heidi Elizondo",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
     "Full Name": "Roland Hammons",
     "Enrolled Date": "03/18/2025",
     "Assigned To": "Richard Hernandez",
-    "Status-Detail": "Enrolled / NSF Problem",
-    "Lead Status": "Paused",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
+    "Enrolled Month": "Mar 2025"
+  },
+  {
+    "Full Name": "Marlene Noel",
+    "Enrolled Date": "03/20/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Mar 2025"
   },
   {
@@ -6250,9 +6390,29 @@
     "Enrolled Month": "Mar 2025"
   },
   {
+    "Full Name": "Nelson Lebron",
+    "Enrolled Date": "04/24/2025",
+    "Assigned To": "Richard Hernandez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Apr 2025"
+  },
+  {
     "Full Name": "Michael Franze",
     "Enrolled Date": "03/14/2025",
     "Assigned To": "Cristobal Medina",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Mar 2025"
+  },
+  {
+    "Full Name": "Arbertia Mallard",
+    "Enrolled Date": "03/13/2025",
+    "Assigned To": "Amy Franco",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -6273,16 +6433,6 @@
     "Full Name": "ROBERT BROWN",
     "Enrolled Date": "03/14/2025",
     "Assigned To": "Heidi Elizondo",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Mar 2025"
-  },
-  {
-    "Full Name": "Arbertia Mallard",
-    "Enrolled Date": "03/13/2025",
-    "Assigned To": "Amy Franco",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -6350,26 +6500,6 @@
     "Enrolled Month": "Mar 2025"
   },
   {
-    "Full Name": "Paula Moore",
-    "Enrolled Date": "03/12/2025",
-    "Assigned To": "Cristobal Medina",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Mar 2025"
-  },
-  {
-    "Full Name": "Sherman Roberts",
-    "Enrolled Date": "03/12/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Mar 2025"
-  },
-  {
     "Full Name": "Rhemunda Griffith",
     "Enrolled Date": "03/11/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
@@ -6410,18 +6540,8 @@
     "Enrolled Month": "Mar 2025"
   },
   {
-    "Full Name": "Linda Butts",
-    "Enrolled Date": "03/11/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Mar 2025"
-  },
-  {
-    "Full Name": "Michael Skeoch",
-    "Enrolled Date": "03/11/2025",
+    "Full Name": "Paula Moore",
+    "Enrolled Date": "03/12/2025",
     "Assigned To": "Cristobal Medina",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
@@ -6430,11 +6550,11 @@
     "Enrolled Month": "Mar 2025"
   },
   {
-    "Full Name": "Wendy Caceres",
+    "Full Name": "Linda Butts",
     "Enrolled Date": "03/11/2025",
     "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Mar 2025"
@@ -6470,13 +6590,13 @@
     "Enrolled Month": "Mar 2025"
   },
   {
-    "Full Name": "Joseph Young Jr",
-    "Enrolled Date": "03/10/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Full Name": "Michael Skeoch",
+    "Enrolled Date": "03/11/2025",
+    "Assigned To": "Cristobal Medina",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
+    "Agent Active Status": "No",
     "Enrolled Month": "Mar 2025"
   },
   {
@@ -6510,9 +6630,9 @@
     "Enrolled Month": "Mar 2025"
   },
   {
-    "Full Name": "Wendell White",
-    "Enrolled Date": "03/06/2025",
-    "Assigned To": "Heidi Elizondo",
+    "Full Name": "Peggy Nolan",
+    "Enrolled Date": "03/26/2025",
+    "Assigned To": "Joseph Martinez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -6520,17 +6640,7 @@
     "Enrolled Month": "Mar 2025"
   },
   {
-    "Full Name": "Carmen Maggi",
-    "Enrolled Date": "03/06/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Mar 2025"
-  },
-  {
-    "Full Name": "Don Anderson",
+    "Full Name": "Wendell White",
     "Enrolled Date": "03/06/2025",
     "Assigned To": "Heidi Elizondo",
     "Status-Detail": "Dropped",
@@ -6620,13 +6730,13 @@
     "Enrolled Month": "Mar 2025"
   },
   {
-    "Full Name": "Gloria Tucker Wilson",
-    "Enrolled Date": "03/05/2025",
-    "Assigned To": "Joseph Martinez",
+    "Full Name": "Carmen Maggi",
+    "Enrolled Date": "03/06/2025",
+    "Assigned To": "David Zepeda",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
-    "Agent Active Status": "No",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Mar 2025"
   },
   {
@@ -6640,6 +6750,16 @@
     "Enrolled Month": "Mar 2025"
   },
   {
+    "Full Name": "carolyn rogers",
+    "Enrolled Date": "09/30/2025",
+    "Assigned To": "Amanda O'Banion",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Sep 2025"
+  },
+  {
     "Full Name": "Gilbert Villegas",
     "Enrolled Date": "03/04/2025",
     "Assigned To": "Heidi Elizondo",
@@ -6648,6 +6768,16 @@
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Mar 2025"
+  },
+  {
+    "Full Name": "Roger Bernier",
+    "Enrolled Date": "04/14/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Apr 2025"
   },
   {
     "Full Name": "Carl Campbell",
@@ -6683,6 +6813,16 @@
     "Full Name": "Lewis Shahan",
     "Enrolled Date": "03/03/2025",
     "Assigned To": "Miriam Guizar",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Mar 2025"
+  },
+  {
+    "Full Name": "Gloria Tucker Wilson",
+    "Enrolled Date": "03/05/2025",
+    "Assigned To": "Joseph Martinez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -6740,13 +6880,13 @@
     "Enrolled Month": "Mar 2025"
   },
   {
-    "Full Name": "Jessie Yancey",
-    "Enrolled Date": "03/03/2025",
-    "Assigned To": "Miguel Flores",
+    "Full Name": "Don Anderson",
+    "Enrolled Date": "03/06/2025",
+    "Assigned To": "Heidi Elizondo",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
+    "Agent Active Status": "No",
     "Enrolled Month": "Mar 2025"
   },
   {
@@ -6800,14 +6940,24 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Steve Young",
-    "Enrolled Date": "02/28/2025",
-    "Assigned To": "Bryan Garcia",
+    "Full Name": "Joseph Young Jr",
+    "Enrolled Date": "03/10/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Mar 2025"
+  },
+  {
+    "Full Name": "Jessie Yancey",
+    "Enrolled Date": "03/03/2025",
+    "Assigned To": "Miguel Flores",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Mar 2025"
   },
   {
     "Full Name": "Joyce Foreman",
@@ -6850,21 +7000,21 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Robin Huges",
-    "Enrolled Date": "02/27/2025",
-    "Assigned To": "Heidi Elizondo",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
     "Full Name": "Matthew Wellsby",
     "Enrolled Date": "02/26/2025",
     "Assigned To": "Richard Hernandez",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Robin Huges",
+    "Enrolled Date": "02/27/2025",
+    "Assigned To": "Heidi Elizondo",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Feb 2025"
@@ -6910,16 +7060,6 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Antonia Villacorta",
-    "Enrolled Date": "02/26/2025",
-    "Assigned To": "Bryan Garcia",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
     "Full Name": "Stacey Gonzales",
     "Enrolled Date": "02/25/2025",
     "Assigned To": "Miriam Guizar",
@@ -6937,6 +7077,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Antonia Villacorta",
+    "Enrolled Date": "02/26/2025",
+    "Assigned To": "Bryan Garcia",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
     "Enrolled Month": "Feb 2025"
   },
   {
@@ -7080,26 +7230,6 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Diane Sun",
-    "Enrolled Date": "02/20/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
-    "Full Name": "Leslie Couture",
-    "Enrolled Date": "02/20/2025",
-    "Assigned To": "Amy Franco",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
     "Full Name": "Derek Colbert",
     "Enrolled Date": "02/19/2025",
     "Assigned To": "Amy Franco",
@@ -7200,13 +7330,23 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Cara Dasilva",
-    "Enrolled Date": "02/18/2025",
-    "Assigned To": "Amy Franco",
+    "Full Name": "Enda Davis",
+    "Enrolled Date": "05/23/2025",
+    "Assigned To": "Bryan Garcia",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
+    "Enrolled Month": "May 2025"
+  },
+  {
+    "Full Name": "Diane Sun",
+    "Enrolled Date": "02/20/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Feb 2025"
   },
   {
@@ -7230,16 +7370,6 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Lillian Mitchell",
-    "Enrolled Date": "02/17/2025",
-    "Assigned To": "Cristobal Medina",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
     "Full Name": "Donna Collette",
     "Enrolled Date": "02/14/2025",
     "Assigned To": "Cristobal Medina",
@@ -7255,6 +7385,16 @@
     "Assigned To": "Joseph Martinez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Lillian Mitchell",
+    "Enrolled Date": "02/17/2025",
+    "Assigned To": "Cristobal Medina",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Feb 2025"
@@ -7290,13 +7430,13 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Sue Bumgarner",
-    "Enrolled Date": "02/14/2025",
-    "Assigned To": "David Zepeda",
+    "Full Name": "Steve Young",
+    "Enrolled Date": "02/28/2025",
+    "Assigned To": "Bryan Garcia",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
+    "Agent Active Status": "No",
     "Enrolled Month": "Feb 2025"
   },
   {
@@ -7360,16 +7500,6 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Cheri Yori",
-    "Enrolled Date": "02/13/2025",
-    "Assigned To": "Cristobal Medina",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
     "Full Name": "Jay Perry",
     "Enrolled Date": "02/12/2025",
     "Assigned To": "Israel Pelcastre Sanchez",
@@ -7385,6 +7515,16 @@
     "Assigned To": "Miriam Guizar",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Cheri Yori",
+    "Enrolled Date": "02/13/2025",
+    "Assigned To": "Cristobal Medina",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Feb 2025"
@@ -7480,16 +7620,6 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Maria Colin",
-    "Enrolled Date": "02/12/2025",
-    "Assigned To": "Cristobal Medina",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
     "Full Name": "Gary Moore",
     "Enrolled Date": "02/11/2025",
     "Assigned To": "David Zepeda",
@@ -7510,6 +7640,36 @@
     "Enrolled Month": "Feb 2025"
   },
   {
+    "Full Name": "Sue Bumgarner",
+    "Enrolled Date": "02/14/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Wendy Caceres",
+    "Enrolled Date": "03/11/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Mar 2025"
+  },
+  {
+    "Full Name": "Maria Colin",
+    "Enrolled Date": "02/12/2025",
+    "Assigned To": "Cristobal Medina",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
     "Full Name": "Luis Frias",
     "Enrolled Date": "02/10/2025",
     "Assigned To": "Heidi Elizondo",
@@ -7520,19 +7680,19 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Michele Fry",
-    "Enrolled Date": "02/10/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
     "Full Name": "Steven Haynes",
     "Enrolled Date": "02/07/2025",
     "Assigned To": "Heidi Elizondo",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Cara Dasilva",
+    "Enrolled Date": "02/18/2025",
+    "Assigned To": "Amy Franco",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -7557,16 +7717,6 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
-    "Full Name": "Mayra Bermudez",
-    "Enrolled Date": "02/07/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
     "Enrolled Month": "Feb 2025"
   },
   {
@@ -7600,26 +7750,6 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Donnell Adams",
-    "Enrolled Date": "02/06/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
-    "Full Name": "Rosemarie Ramcharitar",
-    "Enrolled Date": "02/06/2025",
-    "Assigned To": "Amy Franco",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
     "Full Name": "David Flores",
     "Enrolled Date": "02/05/2025",
     "Assigned To": "Dallas Villa",
@@ -7627,6 +7757,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Mayra Bermudez",
+    "Enrolled Date": "02/07/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Feb 2025"
   },
   {
@@ -7651,26 +7791,6 @@
   },
   {
     "Full Name": "Christopher Burysek",
-    "Enrolled Date": "02/05/2025",
-    "Assigned To": "Amy Franco",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
-    "Full Name": "Priscilla Bright",
-    "Enrolled Date": "02/05/2025",
-    "Assigned To": "Amy Franco",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
-    "Full Name": "Clayton Reyher",
     "Enrolled Date": "02/05/2025",
     "Assigned To": "Amy Franco",
     "Status-Detail": "Dropped",
@@ -7720,6 +7840,26 @@
     "Enrolled Month": "Feb 2025"
   },
   {
+    "Full Name": "Donnell Adams",
+    "Enrolled Date": "02/06/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Priscilla Bright",
+    "Enrolled Date": "02/05/2025",
+    "Assigned To": "Amy Franco",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
     "Full Name": "Steven Kenedy",
     "Enrolled Date": "02/04/2025",
     "Assigned To": "Dallas Villa",
@@ -7740,9 +7880,29 @@
     "Enrolled Month": "Feb 2025"
   },
   {
+    "Full Name": "Rosemarie Ramcharitar",
+    "Enrolled Date": "02/06/2025",
+    "Assigned To": "Amy Franco",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
     "Full Name": "Isaac Mccloud",
     "Enrolled Date": "02/04/2025",
     "Assigned To": "Bryan Garcia",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Clayton Reyher",
+    "Enrolled Date": "02/05/2025",
+    "Assigned To": "Amy Franco",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -7780,29 +7940,19 @@
     "Enrolled Month": "Feb 2025"
   },
   {
-    "Full Name": "Kelly Jones",
-    "Enrolled Date": "02/04/2025",
-    "Assigned To": "Bryan Garcia",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
-    "Full Name": "Elsa Ocasio",
-    "Enrolled Date": "02/04/2025",
-    "Assigned To": "Amy Franco",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Feb 2025"
-  },
-  {
     "Full Name": "Ricky Crockett",
     "Enrolled Date": "02/03/2025",
     "Assigned To": "Cristobal Medina",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Kelly Jones",
+    "Enrolled Date": "02/04/2025",
+    "Assigned To": "Bryan Garcia",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -7833,6 +7983,16 @@
     "Full Name": "Isabel Macias",
     "Enrolled Date": "02/03/2025",
     "Assigned To": "Dallas Villa",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
+  },
+  {
+    "Full Name": "Elsa Ocasio",
+    "Enrolled Date": "02/04/2025",
+    "Assigned To": "Amy Franco",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -7900,24 +8060,14 @@
     "Enrolled Month": "Jan 2025"
   },
   {
-    "Full Name": "David Hutcheson",
-    "Enrolled Date": "01/31/2025",
-    "Assigned To": "Cristobal Medina",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Jan 2025"
-  },
-  {
-    "Full Name": "Angela Camuglia",
-    "Enrolled Date": "01/31/2025",
-    "Assigned To": "Israel Pelcastre Sanchez",
+    "Full Name": "Leslie Couture",
+    "Enrolled Date": "02/20/2025",
+    "Assigned To": "Amy Franco",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Jan 2025"
+    "Agent Active Status": "No",
+    "Enrolled Month": "Feb 2025"
   },
   {
     "Full Name": "Vadis Akemon",
@@ -7940,14 +8090,14 @@
     "Enrolled Month": "Jan 2025"
   },
   {
-    "Full Name": "Gwen Empson",
-    "Enrolled Date": "01/30/2025",
-    "Assigned To": "Andy Wade",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Full Name": "Sherman Roberts",
+    "Enrolled Date": "03/12/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Jan 2025"
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Mar 2025"
   },
   {
     "Full Name": "Richard Dixon",
@@ -7970,19 +8120,19 @@
     "Enrolled Month": "Jan 2025"
   },
   {
-    "Full Name": "RUSSELL ELDER",
-    "Enrolled Date": "01/29/2025",
-    "Assigned To": "Heidi Elizondo",
+    "Full Name": "Trina Wurzelbacher",
+    "Enrolled Date": "10/15/2025",
+    "Assigned To": "Bryan Garcia",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
-    "Enrolled Month": "Jan 2025"
+    "Enrolled Month": "Oct 2025"
   },
   {
-    "Full Name": "Robin Sheffield",
-    "Enrolled Date": "01/29/2025",
-    "Assigned To": "Dallas Villa",
+    "Full Name": "Gwen Empson",
+    "Enrolled Date": "01/30/2025",
+    "Assigned To": "Andy Wade",
     "Status-Detail": "Enrolled / Active",
     "Lead Status": "Active",
     "Backend": "PAN AM",
@@ -8000,19 +8150,19 @@
     "Enrolled Month": "Jan 2025"
   },
   {
-    "Full Name": "William Klopfer",
-    "Enrolled Date": "01/28/2025",
-    "Assigned To": "Andy Wade",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
+    "Full Name": "Reba Hill",
+    "Enrolled Date": "01/27/2025",
+    "Assigned To": "Dallas Villa",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Jan 2025"
   },
   {
-    "Full Name": "Reba Hill",
-    "Enrolled Date": "01/27/2025",
-    "Assigned To": "Dallas Villa",
+    "Full Name": "RUSSELL ELDER",
+    "Enrolled Date": "01/29/2025",
+    "Assigned To": "Heidi Elizondo",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -8030,6 +8180,16 @@
     "Enrolled Month": "Jan 2025"
   },
   {
+    "Full Name": "David Hutcheson",
+    "Enrolled Date": "01/31/2025",
+    "Assigned To": "Cristobal Medina",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Jan 2025"
+  },
+  {
     "Full Name": "Dwayne Wilson",
     "Enrolled Date": "01/27/2025",
     "Assigned To": "David Zepeda",
@@ -8040,9 +8200,9 @@
     "Enrolled Month": "Jan 2025"
   },
   {
-    "Full Name": "Theresa Dimas",
-    "Enrolled Date": "01/27/2025",
-    "Assigned To": "David Zepeda",
+    "Full Name": "Angela Camuglia",
+    "Enrolled Date": "01/31/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -8050,13 +8210,23 @@
     "Enrolled Month": "Jan 2025"
   },
   {
-    "Full Name": "CHRISTINE LAZARO",
+    "Full Name": "William Klopfer",
+    "Enrolled Date": "01/28/2025",
+    "Assigned To": "Andy Wade",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Jan 2025"
+  },
+  {
+    "Full Name": "Theresa Dimas",
     "Enrolled Date": "01/27/2025",
-    "Assigned To": "Heidi Elizondo",
+    "Assigned To": "David Zepeda",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
-    "Agent Active Status": "No",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Jan 2025"
   },
   {
@@ -8073,6 +8243,16 @@
     "Full Name": "Ricky Johnson",
     "Enrolled Date": "01/24/2025",
     "Assigned To": "Richard Hernandez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Jan 2025"
+  },
+  {
+    "Full Name": "CHRISTINE LAZARO",
+    "Enrolled Date": "01/27/2025",
+    "Assigned To": "Heidi Elizondo",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -8160,16 +8340,6 @@
     "Enrolled Month": "Jan 2025"
   },
   {
-    "Full Name": "Ana Hernandez",
-    "Enrolled Date": "01/22/2025",
-    "Assigned To": "Jorge Sandoval",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Jan 2025"
-  },
-  {
     "Full Name": "Roy Penney",
     "Enrolled Date": "01/21/2025",
     "Assigned To": "David Zepeda",
@@ -8213,6 +8383,16 @@
     "Full Name": "Jami Case",
     "Enrolled Date": "01/20/2025",
     "Assigned To": "Edwin Orantes",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Jan 2025"
+  },
+  {
+    "Full Name": "Ana Hernandez",
+    "Enrolled Date": "01/22/2025",
+    "Assigned To": "Jorge Sandoval",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -8280,16 +8460,6 @@
     "Enrolled Month": "Jan 2025"
   },
   {
-    "Full Name": "Maria Rodriguez",
-    "Enrolled Date": "01/15/2025",
-    "Assigned To": "Richard Hernandez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Jan 2025"
-  },
-  {
     "Full Name": "Hideo Adams",
     "Enrolled Date": "01/14/2025",
     "Assigned To": "Miguel Flores",
@@ -8297,6 +8467,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
+    "Enrolled Month": "Jan 2025"
+  },
+  {
+    "Full Name": "Maria Rodriguez",
+    "Enrolled Date": "01/15/2025",
+    "Assigned To": "Richard Hernandez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
     "Enrolled Month": "Jan 2025"
   },
   {
@@ -8620,6 +8800,16 @@
     "Enrolled Month": "Dec 2024"
   },
   {
+    "Full Name": "Robin Sheffield",
+    "Enrolled Date": "01/29/2025",
+    "Assigned To": "Dallas Villa",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Jan 2025"
+  },
+  {
     "Full Name": "Catalina Rucker",
     "Enrolled Date": "12/06/2024",
     "Assigned To": "Edwin Orantes",
@@ -8720,26 +8910,6 @@
     "Enrolled Month": "Dec 2024"
   },
   {
-    "Full Name": "Anne Liptak",
-    "Enrolled Date": "12/02/2024",
-    "Assigned To": "Luis Cano",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Dec 2024"
-  },
-  {
-    "Full Name": "Matthew Norton",
-    "Enrolled Date": "11/29/2024",
-    "Assigned To": "Lilly Fernandez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Nov 2024"
-  },
-  {
     "Full Name": "Linda Terwilliger",
     "Enrolled Date": "11/27/2024",
     "Assigned To": "David Zepeda",
@@ -8770,16 +8940,6 @@
     "Enrolled Month": "Nov 2024"
   },
   {
-    "Full Name": "Donald Strout",
-    "Enrolled Date": "11/26/2024",
-    "Assigned To": "Lilly Fernandez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Nov 2024"
-  },
-  {
     "Full Name": "Maria Salaman",
     "Enrolled Date": "11/25/2024",
     "Assigned To": "Lilly Fernandez",
@@ -8803,6 +8963,16 @@
     "Full Name": "sandra carter",
     "Enrolled Date": "11/25/2024",
     "Assigned To": "Jose Salazar",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Nov 2024"
+  },
+  {
+    "Full Name": "Donald Strout",
+    "Enrolled Date": "11/26/2024",
+    "Assigned To": "Lilly Fernandez",
     "Status-Detail": "Dropped",
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
@@ -8838,6 +9008,16 @@
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Nov 2024"
+  },
+  {
+    "Full Name": "Anne Liptak",
+    "Enrolled Date": "12/02/2024",
+    "Assigned To": "Luis Cano",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Dec 2024"
   },
   {
     "Full Name": "Kaye Hunt",
@@ -8880,16 +9060,6 @@
     "Enrolled Month": "Nov 2024"
   },
   {
-    "Full Name": "Ronald Pryor",
-    "Enrolled Date": "11/15/2024",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2024"
-  },
-  {
     "Full Name": "Marlin Evans",
     "Enrolled Date": "11/14/2024",
     "Assigned To": "Dallas Villa",
@@ -8897,6 +9067,16 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "No",
+    "Enrolled Month": "Nov 2024"
+  },
+  {
+    "Full Name": "Ronald Pryor",
+    "Enrolled Date": "11/15/2024",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
     "Enrolled Month": "Nov 2024"
   },
   {
@@ -8928,6 +9108,16 @@
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Nov 2024"
+  },
+  {
+    "Full Name": "Michele Fry",
+    "Enrolled Date": "02/10/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Feb 2025"
   },
   {
     "Full Name": "Welch Brown",
@@ -8980,16 +9170,6 @@
     "Enrolled Month": "Nov 2024"
   },
   {
-    "Full Name": "Patricia Murrihee",
-    "Enrolled Date": "11/08/2024",
-    "Assigned To": "Lilly Fernandez",
-    "Status-Detail": "Dropped",
-    "Lead Status": "Cancelled",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Nov 2024"
-  },
-  {
     "Full Name": "Peggy Turner",
     "Enrolled Date": "11/07/2024",
     "Assigned To": "Dallas Villa",
@@ -9007,16 +9187,6 @@
     "Lead Status": "Cancelled",
     "Backend": "PAN AM",
     "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2024"
-  },
-  {
-    "Full Name": "James Catchings",
-    "Enrolled Date": "11/07/2024",
-    "Assigned To": "Jane Nath",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "PAN AM",
-    "Agent Active Status": "No",
     "Enrolled Month": "Nov 2024"
   },
   {
@@ -9090,6 +9260,26 @@
     "Enrolled Month": "Nov 2024"
   },
   {
+    "Full Name": "James Catchings",
+    "Enrolled Date": "11/07/2024",
+    "Assigned To": "Jane Nath",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Nov 2024"
+  },
+  {
+    "Full Name": "Patricia Murrihee",
+    "Enrolled Date": "11/08/2024",
+    "Assigned To": "Lilly Fernandez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Nov 2024"
+  },
+  {
     "Full Name": "Rodrick Perez",
     "Enrolled Date": "10/30/2024",
     "Assigned To": "Dallas Villa",
@@ -9098,6 +9288,16 @@
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Oct 2024"
+  },
+  {
+    "Full Name": "Matthew Norton",
+    "Enrolled Date": "11/29/2024",
+    "Assigned To": "Lilly Fernandez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "PAN AM",
+    "Agent Active Status": "No",
+    "Enrolled Month": "Nov 2024"
   },
   {
     "Full Name": "Michael Anthony Thomas",
@@ -9198,6 +9398,216 @@
     "Backend": "PAN AM",
     "Agent Active Status": "No",
     "Enrolled Month": "Oct 2024"
+  },
+  {
+    "Full Name": "Karin Lifgren",
+    "Enrolled Date": "11/26/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Joshua Fulkerson",
+    "Enrolled Date": "11/26/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Rhiannon Buck",
+    "Enrolled Date": "11/25/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Susan Daniels",
+    "Enrolled Date": "11/26/2025",
+    "Assigned To": "Michael Jimenez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Myrtice Jordan",
+    "Enrolled Date": "11/24/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Robin Robertson",
+    "Enrolled Date": "11/24/2025",
+    "Assigned To": "Jorge Aguilar",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Hoyt A Bryant Jr",
+    "Enrolled Date": "11/24/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Donnita Watson",
+    "Enrolled Date": "11/21/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Dolly Dudley",
+    "Enrolled Date": "11/21/2025",
+    "Assigned To": "Michael Jimenez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Frances Souther",
+    "Enrolled Date": "11/21/2025",
+    "Assigned To": "Jorge Aguilar",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Alice A Mahon",
+    "Enrolled Date": "11/17/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Anthony Brandon",
+    "Enrolled Date": "11/17/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Cynthia Rust",
+    "Enrolled Date": "11/17/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Julianne L Martini",
+    "Enrolled Date": "11/17/2025",
+    "Assigned To": "Vivian Garza",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Robert May",
+    "Enrolled Date": "11/14/2025",
+    "Assigned To": "Miguel Flores",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Wesley Shane Caudill",
+    "Enrolled Date": "11/14/2025",
+    "Assigned To": "Vanessa Hernandez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Weldon Dudding",
+    "Enrolled Date": "11/14/2025",
+    "Assigned To": "Israel Pelcastre Sanchez",
+    "Status-Detail": "Enrolled / NSF Problem",
+    "Lead Status": "Paused",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Jacqueline Beck",
+    "Enrolled Date": "11/13/2025",
+    "Assigned To": "Michael Jimenez",
+    "Status-Detail": "Dropped",
+    "Lead Status": "Cancelled",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Lucian Dellacqua",
+    "Enrolled Date": "11/13/2025",
+    "Assigned To": "David Zepeda",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Susana Thompson",
+    "Enrolled Date": "11/24/2025",
+    "Assigned To": "Michael Jimenez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
+  },
+  {
+    "Full Name": "Darlene Fuess",
+    "Enrolled Date": "11/12/2025",
+    "Assigned To": "Michael Jimenez",
+    "Status-Detail": "Enrolled / Active",
+    "Lead Status": "Active",
+    "Backend": "MLSR",
+    "Agent Active Status": "Yes",
+    "Enrolled Month": "Nov 2025"
   },
   {
     "Full Name": "Carol E. Hamby",
@@ -10933,8 +11343,8 @@
     "Full Name": "Sharon Jefferson",
     "Enrolled Date": "04/11/2025",
     "Assigned To": "Richard Hernandez",
-    "Status-Detail": "Cancelled",
-    "Lead Status": "Cancelled",
+    "Status-Detail": "Canceled",
+    "Lead Status": "#N/A",
     "Backend": "ELP",
     "Agent Active Status": "No",
     "Enrolled Month": "Apr 2025"
@@ -11113,8 +11523,8 @@
     "Full Name": "Lawrence Pickaree",
     "Enrolled Date": "05/02/2025",
     "Assigned To": "Miriam Guizar",
-    "Status-Detail": "Cancelled",
-    "Lead Status": "Cancelled",
+    "Status-Detail": "Canceled",
+    "Lead Status": "#N/A",
     "Backend": "ELP",
     "Agent Active Status": "No",
     "Enrolled Month": "May 2025"
@@ -11333,8 +11743,8 @@
     "Full Name": "Donald Hiers",
     "Enrolled Date": "05/22/2025",
     "Assigned To": "Heidi Elizondo",
-    "Status-Detail": "Cancelled",
-    "Lead Status": "Cancelled",
+    "Status-Detail": "Canceled",
+    "Lead Status": "#N/A",
     "Backend": "ELP",
     "Agent Active Status": "No",
     "Enrolled Month": "May 2025"
@@ -11343,8 +11753,8 @@
     "Full Name": "Gerald Lange",
     "Enrolled Date": "05/23/2025",
     "Assigned To": "Miriam Guizar",
-    "Status-Detail": "Cancelled",
-    "Lead Status": "Cancelled",
+    "Status-Detail": "Canceled",
+    "Lead Status": "#N/A",
     "Backend": "ELP",
     "Agent Active Status": "No",
     "Enrolled Month": "May 2025"
@@ -11593,8 +12003,8 @@
     "Full Name": "Thomas Reed",
     "Enrolled Date": "09/11/2025",
     "Assigned To": "Miguel Flores",
-    "Status-Detail": "Cancelled",
-    "Lead Status": "Cancelled",
+    "Status-Detail": "Canceled",
+    "Lead Status": "#N/A",
     "Backend": "ELP",
     "Agent Active Status": "Yes",
     "Enrolled Month": "Sep 2025"
@@ -11644,439 +12054,339 @@
     "Enrolled Date": "09/16/2025",
     "Assigned To": "Vivian Garza",
     "Status-Detail": "Client Put Stop Payment",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Ian Fischer",
     "Enrolled Date": "09/17/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Cancellation Requested",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Destiny Beckett",
     "Enrolled Date": "09/17/2025",
     "Assigned To": "Miguel Flores",
     "Status-Detail": "Cancellation Requested",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Tachia Lawson",
     "Enrolled Date": "09/22/2025",
     "Assigned To": "Vanessa Hernandez",
     "Status-Detail": "Welcome Call",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Lisa Good",
     "Enrolled Date": "09/22/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Other",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Monica Oshaughnessey",
     "Enrolled Date": "09/22/2025",
     "Assigned To": "Vanessa Hernandez",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Rickey Whitehead",
     "Enrolled Date": "09/23/2025",
     "Assigned To": "Vanessa Hernandez",
     "Status-Detail": "Cancellation Requested",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Lance Landry",
     "Enrolled Date": "09/23/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Client Put Stop Payment",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Sherri Sullivan Downs",
     "Enrolled Date": "09/24/2025",
     "Assigned To": "Vanessa Hernandez",
     "Status-Detail": "Cancellation Requested",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Iris Jessup",
     "Enrolled Date": "09/24/2025",
     "Assigned To": "Vivian Garza",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Shanon Henry",
     "Enrolled Date": "09/25/2025",
     "Assigned To": "Vanessa Hernandez",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Thomas Squires",
     "Enrolled Date": "09/25/2025",
     "Assigned To": "Kyle Martin",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Mary Jo Devlin",
     "Enrolled Date": "09/29/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "James Holmes",
     "Enrolled Date": "09/30/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Sep 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Laura Gagnon",
     "Enrolled Date": "10/03/2025",
     "Assigned To": "Bryan Garcia",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Reuben Sonney",
     "Enrolled Date": "10/06/2025",
     "Assigned To": "Michael Jimenez",
     "Status-Detail": "Client Put Stop Payment",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Roberta Morgan",
     "Enrolled Date": "10/08/2025",
     "Assigned To": "Michael Jimenez",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Johnathon Lockett",
     "Enrolled Date": "10/08/2025",
     "Assigned To": "Vivian Garza",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Zach Smith",
     "Enrolled Date": "10/09/2025",
     "Assigned To": "Vivian Garza",
     "Status-Detail": "Cancellation Requested",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Nancy Hannum",
     "Enrolled Date": "10/10/2025",
     "Assigned To": "Vivian Garza",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Helen Uitts",
     "Enrolled Date": "10/10/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Kelsey Linch",
     "Enrolled Date": "10/13/2025",
     "Assigned To": "Vanessa Hernandez",
     "Status-Detail": "Client Put Stop Payment",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Rodney Jensen",
     "Enrolled Date": "10/13/2025",
     "Assigned To": "Vanessa Hernandez",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Vallerie Scott",
     "Enrolled Date": "10/15/2025",
     "Assigned To": "Vanessa Hernandez",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Katie Cook",
     "Enrolled Date": "10/21/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Tiffany Manning",
     "Enrolled Date": "10/23/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Lorraine Ornelas",
     "Enrolled Date": "10/24/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Welcome Call",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Marilyn Dodwin",
     "Enrolled Date": "10/24/2025",
     "Assigned To": "Michael Jimenez",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Tiffany Lorick",
     "Enrolled Date": "10/24/2025",
     "Assigned To": "Jorge Aguilar",
     "Status-Detail": "Cancellation Requested",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Jorge Acosta",
     "Enrolled Date": "11/11/2025",
     "Assigned To": "Vivian Garza",
     "Status-Detail": "Unknown",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Bennie Cockrell",
     "Enrolled Date": "11/03/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Forced (PAN)",
-    "Lead Status": "Cancelled",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Robert Richardson",
     "Enrolled Date": "10/30/2025",
     "Assigned To": "Vivian Garza",
     "Status-Detail": "Active",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Oct 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Leiema Gray",
     "Enrolled Date": "11/11/2025",
     "Assigned To": "Jorge Aguilar",
     "Status-Detail": "Welcome Call",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   },
   {
     "Full Name": "Ajoya'tone Walton",
     "Enrolled Date": "11/17/2025",
     "Assigned To": "David Zepeda",
     "Status-Detail": "Welcome Call",
-    "Lead Status": "Active",
+    "Lead Status": "",
     "Backend": "ELP",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Alice A Mahon",
-    "Enrolled Date": "11/17/2025",
-    "Assigned To": "Vanessa Hernandez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "MLS",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Anthony Brandon",
-    "Enrolled Date": "11/17/2025",
-    "Assigned To": "Vanessa Hernandez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "MLS",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Cynthia Rust",
-    "Enrolled Date": "11/17/2025",
-    "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "MLS",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Julianne L Martini",
-    "Enrolled Date": "11/17/2025",
-    "Assigned To": "Vivian Garza",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "MLS",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Robert May",
-    "Enrolled Date": "11/14/2025",
-    "Assigned To": "Susana Valladolid",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "MLS",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Wesley Shane Caudill",
-    "Enrolled Date": "11/14/2025",
-    "Assigned To": "Vanessa Hernandez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "MLS",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Weldon Dudding",
-    "Enrolled Date": "11/14/2025",
-    "Assigned To": "Israel Pelcastre Sanchez",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "MLS",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Jacqueline Beck",
-    "Enrolled Date": "11/13/2025",
-    "Assigned To": "Susana Valladolid",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "MLS",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Lucian Dellacqua",
-    "Enrolled Date": "11/13/2025",
-    "Assigned To": "David Zepeda",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "MLS",
-    "Agent Active Status": "Yes",
-    "Enrolled Month": "Nov 2025"
-  },
-  {
-    "Full Name": "Darlene Fuess",
-    "Enrolled Date": "11/12/2025",
-    "Assigned To": "Kyle Martin",
-    "Status-Detail": "Enrolled / Active",
-    "Lead Status": "Active",
-    "Backend": "MLS",
-    "Agent Active Status": "No",
-    "Enrolled Month": "Nov 2025"
+    "Agent Active Status": "",
+    "Enrolled Month": ""
   }
 ]
